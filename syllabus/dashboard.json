@@ -1,32 +1,32 @@
 {
   "dashboard":{
-  "title": "",
+  "title": "Mathematics",
   "image_url": "",
-  "subject_name": ""
+  "subject_name": "mathematics"
   },
   "dashboard":{
-  "title": "",
+  "title": "Science",
   "image_url": "",
-  "subject_name": ""
+  "subject_name": "science"
   },
   "dashboard":{
-  "title": "",
+  "title": "History",
   "image_url": "",
-  "subject_name": ""
+  "subject_name": "history"
   },
   "dashboard":{
-  "title": "",
+  "title": "General Knowledge",
   "image_url": "",
-  "subject_name": ""
+  "subject_name": "general_knowledge"
   },
   "dashboard":{
-  "title": "",
+  "title": "Hindi",
   "image_url": "",
-  "subject_name": ""
+  "subject_name": "hindi"
   },
   "dashboard":{
-  "title": "",
+  "title": "English",
   "image_url": "",
-  "subject_name": ""
+  "subject_name": "english"
   },
 }
